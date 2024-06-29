@@ -73,16 +73,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
 ###
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasfalah3&show_icons=true&theme=tokyonight&locale=en" alt="anasfalah3" />
+<div align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasfalah3&theme=tokyonight&layout=compact" alt="anasfalah3" />
+</div>
